@@ -5,7 +5,7 @@ We will use an analysis method to segmented all theses phone call by regions in 
 Patients cases will be segmented in pathology types so that patients will be redirect to the medical center the most appropriate for them case
 The analysis’s result should help the medical emergency service be more efficient and help the government to invest in the right equipment or the right medical infrastructure in the place it is more necessary.
 Data sources
-Foursquare location data, to find medical structure in Yaoundé
-Phones call audio record
-Excel file with all Yaoundé’s district and there locations
-Excel file with all the medical structures providing the medical emergency service
+- Foursquare location data, to find medical structure in Yaoundé
+- Phones call audio record
+- Excel file with all Yaoundé’s district and there locations
+- Excel file with all the medical structures providing the medical emergency service
