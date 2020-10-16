@@ -1,63 +1,63 @@
 district,medical-structure,desease,distance-to-medicalstruct,weigth,specialist,generalist,tih,date
-efoulan,hopital central,heart attack,6938.0,95.7,0,1,5,2016-09-02 00:00:00
-efoulan,hopital central,heart attack,7898.0,95.7,1,0,1,2016-09-02 00:00:00
-efoulan,hopital central,heart attack,7738.0,95.7,0,1,1,2016-09-01 12:00:00
-efoulan,hopital central,heart attack,9258.0,95.7,0,1,3,2016-09-01 12:00:00
-biyemassi,hopital central,heart attack,8058.0,94.5,0,1,5,2016-09-01 00:00:00
-biyemassi,hopital central,heart attack,9298.0,94.5,0,1,5,2016-09-01 00:00:00
-efoulan,hopital central,heart attack,8948.0,102.4,0,1,3,2016-09-01 12:00:00
-efoulan,hopital central,heart attack,10698.0,102.4,1,0,5,2016-09-01 12:00:00
-efoulan,hopital central,heart attack,10898.0,102.4,0,1,1,2016-09-02 00:00:00
-biyemassi,hopital central,heart attack,15690.0,104.5,0,1,6,2016-09-01 12:00:00
-efoulan,hopital central,pneumonia,5499.0,94.5,0,1,1,2016-09-01 00:00:00
-efoulan,hopital central,pneumonia,7099.0,94.5,1,0,1,2016-09-02 00:00:00
-efoulan,hopital central,pneumonia,6649.0,94.5,0,1,5,2016-09-02 00:00:00
-efoulan,hopital central,pneumonia,6849.0,94.5,0,1,1,2016-09-02 00:00:00
-efoulan,hopital central,pneumonia,7299.0,94.5,0,1,2,2016-09-01 00:00:00
-efoulan,hopital central,pneumonia,7499.0,94.5,0,1,4,2016-09-02 00:00:00
-efoulan,hopital central,pneumonia,9549.0,97.2,0,1,4,2016-09-01 12:00:00
-efoulan,hopital central,pneumonia,13499.0,100.4,0,1,5,2016-09-01 00:00:00
-efoulan,hopital central,pneumonia,13499.0,100.4,0,1,2,2016-09-01 12:00:00
-efoulan,hopital central,diarrhea,6695.0,93.1,0,1,3,2016-09-02 00:00:00
-efoulan,hopital central,diarrhea,7395.0,93.1,0,1,3,2016-09-01 00:00:00
-efoulan,hopital central,diarrhea,8495.0,98.8,0,1,5,2016-09-01 12:00:00
-efoulan,hopital central,diarrhea,10245.0,98.8,0,1,3,2016-09-01 12:00:00
-efoulan,hopital central,diarrhea,10795.0,98.8,1,0,6,2016-09-02 00:00:00
-biyemassi,hopital central,diarrhea,18280.0,104.9,0,1,5,2016-09-01 00:00:00
-biyemassi,hopital central,diarrhea,18344.0,104.9,1,0,2,2016-09-01 00:00:00
-efoulan,hopital de district cite verte,heart attack,5348.0,95.7,0,1,3,2016-09-02 00:00:00
-efoulan,hopital de district cite verte,heart attack,6338.0,95.7,0,1,1,2016-09-01 12:00:00
-efoulan,hopital de district cite verte,heart attack,6488.0,95.7,0,1,5,2016-09-01 00:00:00
-efoulan,hopital de district cite verte,heart attack,7198.0,95.7,0,1,3,2016-09-02 00:00:00
-efoulan,hopital de district cite verte,heart attack,7788.0,95.7,1,0,5,2016-09-02 00:00:00
-efoulan,hopital de district cite verte,heart attack,8358.0,95.7,0,1,1,2016-09-02 00:00:00
-biyemassi,hopital de district cite verte,heart attack,8238.0,94.5,0,1,1,2016-09-01 12:00:00
-biyemassi,hopital de district cite verte,heart attack,9538.0,94.5,0,1,4,2016-09-01 12:00:00
-biyemassi,hopital de district cite verte,heart attack,9989.0,98.4,0,1,3,2016-09-01 12:00:00
+efoulan,hopital central,heart attack,6938.0,95.7,0,1,6,2016-09-01 00:00:00
+efoulan,hopital central,heart attack,15898.0,95.7,1,0,2,2016-09-01 00:00:00
+efoulan,hopital central,heart attack,10738.0,95.7,0,1,5,2016-09-02 00:00:00
+efoulan,hopital central,heart attack,19258.0,95.7,0,1,3,2016-09-01 00:00:00
+biyemassi,hopital central,heart attack,15058.0,94.5,0,1,6,2016-09-02 00:00:00
+biyemassi,hopital central,heart attack,9298.0,94.5,0,1,6,2016-09-01 00:00:00
+efoulan,hopital central,heart attack,15948.0,102.4,0,1,3,2016-09-01 00:00:00
+efoulan,hopital central,heart attack,15698.0,102.4,1,0,6,2016-09-01 00:00:00
+efoulan,hopital central,heart attack,10898.0,102.4,0,1,5,2016-09-01 12:00:00
+biyemassi,hopital central,heart attack,15690.0,104.5,0,1,4,2016-09-02 00:00:00
+efoulan,hopital central,pneumonia,15499.0,94.5,0,1,4,2016-09-01 12:00:00
+efoulan,hopital central,pneumonia,12099.0,94.5,1,0,5,2016-09-01 00:00:00
+efoulan,hopital central,pneumonia,15649.0,94.5,0,1,6,2016-09-01 12:00:00
+efoulan,hopital central,pneumonia,13849.0,94.5,0,1,6,2016-09-02 00:00:00
+efoulan,hopital central,pneumonia,12299.0,94.5,0,1,4,2016-09-01 12:00:00
+efoulan,hopital central,pneumonia,19499.0,94.5,0,1,3,2016-09-02 00:00:00
+efoulan,hopital central,pneumonia,19549.0,97.2,0,1,3,2016-09-01 00:00:00
+efoulan,hopital central,pneumonia,13499.0,100.4,0,1,6,2016-09-01 00:00:00
+efoulan,hopital central,pneumonia,13499.0,100.4,0,1,1,2016-09-02 00:00:00
+efoulan,hopital central,diarrhea,6695.0,93.1,0,1,5,2016-09-01 12:00:00
+efoulan,hopital central,diarrhea,19395.0,93.1,0,1,6,2016-09-02 00:00:00
+efoulan,hopital central,diarrhea,15495.0,98.8,0,1,2,2016-09-01 12:00:00
+efoulan,hopital central,diarrhea,19245.0,98.8,0,1,2,2016-09-01 12:00:00
+efoulan,hopital central,diarrhea,18795.0,98.8,1,0,2,2016-09-01 00:00:00
+biyemassi,hopital central,diarrhea,18280.0,104.9,0,1,2,2016-09-02 00:00:00
+biyemassi,hopital central,diarrhea,18344.0,104.9,1,0,6,2016-09-01 00:00:00
+efoulan,hopital de district cite verte,heart attack,19348.0,95.7,0,1,4,2016-09-01 12:00:00
+efoulan,hopital de district cite verte,heart attack,19338.0,95.7,0,1,3,2016-09-02 00:00:00
+efoulan,hopital de district cite verte,heart attack,14488.0,95.7,0,1,2,2016-09-01 00:00:00
+efoulan,hopital de district cite verte,heart attack,13198.0,95.7,0,1,2,2016-09-01 12:00:00
+efoulan,hopital de district cite verte,heart attack,11788.0,95.7,1,0,1,2016-09-02 00:00:00
+efoulan,hopital de district cite verte,heart attack,18358.0,95.7,0,1,5,2016-09-02 00:00:00
+biyemassi,hopital de district cite verte,heart attack,11238.0,94.5,0,1,4,2016-09-01 00:00:00
+biyemassi,hopital de district cite verte,heart attack,19538.0,94.5,0,1,3,2016-09-02 00:00:00
+biyemassi,hopital de district cite verte,heart attack,19989.0,98.4,0,1,3,2016-09-02 00:00:00
 biyemassi,hopital de district cite verte,heart attack,11549.0,98.4,0,1,1,2016-09-01 12:00:00
-efoulan,hopital de district cite verte,heart attack,9988.0,102.4,0,1,1,2016-09-01 00:00:00
-efoulan,hopital de district cite verte,heart attack,11248.0,102.4,0,1,6,2016-09-01 00:00:00
-biyemassi,hopital de district cite verte,heart attack,16558.0,102.9,0,1,4,2016-09-01 00:00:00
-biyemassi,hopital de district cite verte,heart attack,15998.0,102.9,0,1,6,2016-09-02 00:00:00
-efoulan,hopital de district cite verte,pneumonia,7799.0,94.5,0,1,5,2016-09-01 00:00:00
-efoulan,hopital de district cite verte,pneumonia,8949.0,97.2,0,1,4,2016-09-02 00:00:00
-biyemassi,hopital de district cite verte,pneumonia,17199.0,91.3,0,1,2,2016-09-01 00:00:00
-biyemassi,hopital de district cite verte,pneumonia,19699.0,91.3,0,1,6,2016-09-02 00:00:00
-biyemassi,hopital de district cite verte,pneumonia,18399.0,99.2,0,1,2,2016-09-01 12:00:00
-efoulan,hopital de district cite verte,diarrhea,5195.0,93.1,0,1,2,2016-09-01 12:00:00
-efoulan,hopital de district cite verte,diarrhea,6095.0,93.1,0,1,6,2016-09-02 00:00:00
-efoulan,hopital de district cite verte,diarrhea,6795.0,93.1,0,1,3,2016-09-02 00:00:00
-biyemassi,hopital de district cite verte,diarrhea,10945.0,95.3,0,1,5,2016-09-01 12:00:00
-biyemassi,hopital de district cite verte,diarrhea,11845.0,95.3,0,1,3,2016-09-02 00:00:00
-biyemassi,hopital de district cite verte,diarrhea,13645.0,95.3,0,1,2,2016-09-01 00:00:00
-biyemassi,hopital de district cite verte,diarrhea,15645.0,95.3,0,1,1,2016-09-01 12:00:00
-efoulan,hopital de district cite verte,diarrhea,8845.0,98.8,0,1,2,2016-09-01 12:00:00
-efoulan,hopital de district cite verte,diarrhea,10595.0,98.8,0,1,5,2016-09-01 00:00:00
-efoulan,hopital de district cite verte,diarrhea,11245.0,98.8,0,1,1,2016-09-01 00:00:00
-efoulan,cury,heart attack,6918.0,95.7,0,1,4,2016-09-01 12:00:00
-odza,cury,heart attack,7898.0,95.7,0,1,5,2016-09-01 00:00:00
-odza,cury,heart attack,8778.0,95.7,0,1,2,2016-09-02 00:00:00
-biyemassi,cury,heart attack,15750.0,104.5,0,1,1,2016-09-01 00:00:00
-efoulan,cury,pneumonia,7349.0,94.5,0,1,5,2016-09-01 12:00:00
-efoulan,cury,pneumonia,7999.0,94.5,0,1,4,2016-09-01 12:00:00
-efoulan,cury,pneumonia,14399.0,100.4,0,1,6,2016-09-01 12:00:00
+efoulan,hopital de district cite verte,heart attack,9988.0,102.4,0,1,6,2016-09-02 00:00:00
+efoulan,hopital de district cite verte,heart attack,11248.0,102.4,0,1,1,2016-09-02 00:00:00
+biyemassi,hopital de district cite verte,heart attack,19558.0,102.9,0,1,2,2016-09-01 12:00:00
+biyemassi,hopital de district cite verte,heart attack,15998.0,102.9,0,1,6,2016-09-01 00:00:00
+efoulan,hopital de district cite verte,pneumonia,13799.0,94.5,0,1,5,2016-09-01 00:00:00
+efoulan,hopital de district cite verte,pneumonia,12949.0,97.2,0,1,2,2016-09-01 12:00:00
+biyemassi,hopital de district cite verte,pneumonia,19199.0,91.3,0,1,2,2016-09-01 12:00:00
+biyemassi,hopital de district cite verte,pneumonia,19699.0,91.3,0,1,2,2016-09-01 00:00:00
+biyemassi,hopital de district cite verte,pneumonia,18399.0,99.2,0,1,6,2016-09-01 12:00:00
+efoulan,hopital de district cite verte,diarrhea,5195.0,93.1,0,1,5,2016-09-01 12:00:00
+efoulan,hopital de district cite verte,diarrhea,13095.0,93.1,0,1,3,2016-09-02 00:00:00
+efoulan,hopital de district cite verte,diarrhea,16795.0,93.1,0,1,5,2016-09-01 12:00:00
+biyemassi,hopital de district cite verte,diarrhea,10945.0,95.3,0,1,5,2016-09-01 00:00:00
+biyemassi,hopital de district cite verte,diarrhea,11845.0,95.3,0,1,1,2016-09-01 00:00:00
+biyemassi,hopital de district cite verte,diarrhea,13645.0,95.3,0,1,6,2016-09-02 00:00:00
+biyemassi,hopital de district cite verte,diarrhea,15645.0,95.3,0,1,2,2016-09-02 00:00:00
+efoulan,hopital de district cite verte,diarrhea,10845.0,98.8,0,1,6,2016-09-01 12:00:00
+efoulan,hopital de district cite verte,diarrhea,10595.0,98.8,0,1,4,2016-09-01 00:00:00
+efoulan,hopital de district cite verte,diarrhea,11245.0,98.8,0,1,5,2016-09-02 00:00:00
+efoulan,cury,heart attack,17918.0,95.7,0,1,4,2016-09-01 00:00:00
+odza,cury,heart attack,15898.0,95.7,0,1,3,2016-09-01 00:00:00
+odza,cury,heart attack,15778.0,95.7,0,1,4,2016-09-01 12:00:00
+biyemassi,cury,heart attack,15750.0,104.5,0,1,4,2016-09-01 12:00:00
+efoulan,cury,pneumonia,15349.0,94.5,0,1,2,2016-09-01 12:00:00
+efoulan,cury,pneumonia,17999.0,94.5,0,1,5,2016-09-01 12:00:00
+efoulan,cury,pneumonia,14399.0,100.4,0,1,3,2016-09-01 00:00:00
